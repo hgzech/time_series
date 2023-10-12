@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "time_series"
+  site-url: "https://hgzech.github.io/time_series"
+  description: "A collection of resources and functions to help with analyzing time series data."
+  repo-branch: main
+  repo-url: "https://github.com/hgzech/time_series"
